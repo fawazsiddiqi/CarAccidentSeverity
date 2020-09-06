@@ -1,0 +1,5 @@
+# Introduction/Business Problem
+
+### Question: Define business problem or introduce the problem
+
+Based on the reports from ASIRT, around 38,000 people die every year in road accidents in the United States. The fatality rate is quite significant which is aorund 12 deaths per 100,000 inhabitants. It is pretty apparent that as the amount of vehicles increase on the roads te number of accidents are also increasing, which obviously means as the number of vehicles increase exponentially it also increases the fatality rate within accidents. In this project we aim to analyze and predict the common causes of accidents allowing us to gain more insight towards this on going problem within the United States. We will be using data provided by the Seattle Department of Transport which will allow us to come to a final conlusion for this ongoing problem.

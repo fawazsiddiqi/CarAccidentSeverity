@@ -1,0 +1,5 @@
+# Data Used
+
+### Question: Describe the data that you will be using to solve the problem or execute your idea.
+
+To reach our target goal of analyze and predict the common causes of accidents we are going to use the data provided by the Seattle Department of Transport, the data set is a very extensive data set which includes around 40 columns which describe a particular accident incuding the road condition (dry or wet), people involved in the accident, the severity of the accident, if the accident place was a block or an intersection, the type of accident on how the accident occured (MOTOR VEHICLE STRUCK MOTOR VEHICLE, FRONT END AT ANGLE), the weather and the light condition the accident occured in. These types of data is very essential for us to actually reach to a final conclusion towards our analysis of the main conditions which actually cause accidents.
